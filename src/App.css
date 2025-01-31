@@ -1,0 +1,19 @@
+.navbar {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.nav-Link {
+  color: #f8f9fa !important;
+  margin: 0 10px;
+  transition: color 0.3s ease;
+}
+
+.nav-Link:hover {
+  color: #ff5722 !important;
+}
+
+.form-control {
+  border-radius: 50px;
+  padding: 0.5rem 1rem;
+  max-width: 300px;
+}
